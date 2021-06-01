@@ -83,6 +83,7 @@ Untuk menampilkan file tersebut buka di browser:http://localhost/lab8_php_databa
 ![](foto/20.PNG)
 
 ![](foto/21.PNG)
+
 Lihatlah pada tabel hp Realme 5 di bagian stok berhasil diganti
 
 ## Menghapus Data (Delete)
@@ -91,8 +92,10 @@ Buat file baru dengan nama hapus.php
 ![](foto/22.PNG)
 
 before
+
 ![](foto/21.PNG
 
 after
+
 ![](foto/23.PNG)
 Lihatlah pada tabel hp Realme 7 sudah berhasil di hapus
