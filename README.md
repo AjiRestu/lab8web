@@ -6,7 +6,7 @@ melalui XAMPP.
 ## Menjalankan MySQL Server
 Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 
-![](foto/1.JPG)
+![](foto/1.PNG)
 
 ## Mengakses MySQL Client menggunakan PHP MyAdmin
 Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka
