@@ -93,9 +93,10 @@ Buat file baru dengan nama hapus.php
 
 before
 
-![](foto/21.PNG
+![](foto/21.PNG)
 
 after
 
 ![](foto/23.PNG)
+
 Lihatlah pada tabel hp Realme 7 sudah berhasil di hapus
